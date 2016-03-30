@@ -19,10 +19,10 @@
  */
 definition(
 	name: "Morgan Freeman Notify with Sound",
-	namespace: "smartthings",
-	author: "SmartThings",
+	namespace: "patbhakta",
+	author: "Pat Bhakta",
 	description: "Play a sound or custom message through your Sonos when the mode changes or other events occur.",
-	category: "SmartThings Labs",
+	category: "My Apps",
 	iconUrl: "https://s3.amazonaws.com/smartapp-icons/Partner/sonos.png",
 	iconX2Url: "https://s3.amazonaws.com/smartapp-icons/Partner/sonos@2x.png"
 )
